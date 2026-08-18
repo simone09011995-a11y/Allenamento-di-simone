@@ -1,0 +1,10 @@
+{
+  "name": "Scheda Allenamento",
+  "short_name": "Allenamento",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#12151A",
+  "theme_color": "#14171A",
+  "orientation": "portrait",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
